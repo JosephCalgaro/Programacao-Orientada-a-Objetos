@@ -1,3 +1,5 @@
+package pkg_1;
+
 public class Retangulo extends Figura {
     private double largura;
     private double altura;

@@ -1,3 +1,5 @@
+package pkg_1;
+
 public class Figura {
     protected String cor;
     protected String preenchimento;
